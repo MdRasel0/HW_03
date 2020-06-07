@@ -1,0 +1,37 @@
+#h1{
+	color:#00000;
+	text-align: center;
+}
+#h2{
+	color: #00000;
+	text-align: center;
+
+}
+#address{
+	color: #00000;
+	text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.int{
+	background-color: #A9A9A9;
+
+}
+.para{
+	text-decoration-color: black;
+	background-color: #FFF8DC;
+}
+.exp{
+	background-color: #87CEFA;
+}
+.table{
+	width: 100%;
+	border: 1px solid black;
+}
+.tb{
+	text-align: center;
+	color: #000000;
+}
